@@ -30,4 +30,4 @@ script: |
 
   cd ~/TrvalWeb1
 
-./update.sh
+  ./update.sh
