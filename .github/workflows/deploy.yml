@@ -28,6 +28,6 @@ key: ${{ secrets.GCP_SSH_PRIVATE_KEY }}
 
 script: |
 
-cd ~/TrvalWeb
+  cd ~/TrvalWeb1
 
 ./update.sh
